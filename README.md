@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdrienDvn,
-- 👀 I’m interested in creative people,
-- 🌱 I’m currently learning javascript, 
+- 🌱 I’m currently learning javascript, and then python.
 - 💞️ I’m looking to collaborate on a junior web developer position
 - 📫 How to reach me adriendavin@hotmail.fr
 
