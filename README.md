@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdrienDvn,
+- 👋 Hi, I’m @AdrienDvn, 
 - 🌱 I’m a full-stack Ruby on rails dev and currently learning more about javascript, and then python.
 - 💞️ I’m looking to collaborate on a junior web developer position
 - 📫 How to reach me adriendavin@hotmail.fr 
